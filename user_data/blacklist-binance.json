@@ -9,11 +9,15 @@
         // Fiat
         "(AUD|BRZ|CAD|CHF|EUR|GBP|HKD|IDRT|JPY|NGN|RUB|SGD|TRY|UAH|USD|ZAR)/.*",
         // Stable
-        "(BUSD|CUSDT|DAI|PAX|PAXG|SUSD|TUSD|USDC|USDT|VAI)/.*",
+        "(BUSD|CUSDT|DAI|PAX|PAXG|SUSD|TUSD|USDC|USDT|USDP|VAI|UST)/.*",
         // FAN
         "(ACM|AFA|ALA|ALL|APL|ASR|ATM|BAR|CAI|CITY|FOR|GAL|GOZ|IBFK|JUV|LAZIO|LEG|LOCK-1|NAVI|NOV|OG|PFL|PORTO|PSG|ROUSH|SANTOS|STV|TH|TRA|UCH|UFC|YBO)/.*",
         // Others
-        "(DOGE|SHIB)/.*"
+        "(DOGE|SHIB|BTG|BCH|FXS|ICP|WBTC|MINA|AUDIO|PEOPLE)/.*",
+        // Gaming
+        "(GALA|ILV|MBOX|PLA|DVI|ALICE)/.*",
+        // Metaverse
+        "(SAND|META|ENJ|UFO|CEEK)/.*"
       ]
     }
   }
